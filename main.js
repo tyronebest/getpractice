@@ -25,4 +25,7 @@ content.style.fontSize = "50px";
  content.style.margin  = "10% auto";
  
  //
- content.style.fontFamily = "sans"
+ content.style.fontFamily = "sans-serif";
+ 
+ //
+ content.style.color= "white";
